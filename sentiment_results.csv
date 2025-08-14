@@ -1,0 +1,11 @@
+review,sentiment_score,sentiment_label
+I absolutely loved this movie! The acting was brilliant.,0.5916666666666667,Positive
+"Terrible plot, boring characters. I hated it.",-0.9666666666666667,Negative
+"An okay film. Not great, but not bad either.",0.14999999999999997,Positive
+Fantastic visuals and great soundtrack!,0.7,Positive
+Worst movie I have ever seen.,-1.0,Negative
+"It was fine, nothing special but enjoyable.",0.4246031746031746,Positive
+Awful directing and the pacing was so slow.,-0.65,Negative
+Beautiful cinematography and touching story.,0.675,Positive
+"Mediocre acting, but the humor worked sometimes.",-0.25,Negative
+I would not recommend it to anyone.,0.0,Neutral
